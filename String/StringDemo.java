@@ -28,7 +28,7 @@ public class StringDemo {
         //to check the string is empty or null
 
         String nullString=null;
-        String nullString1;
+        // String nullString1;
 
         String emptyString="";
 
